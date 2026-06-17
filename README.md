@@ -36,11 +36,11 @@ Sample Run
 
 Input:
 
-Enter a password: Helloworld@12345
+Enter a password: 731731
 
 Output:
 
-Password Strength: Strong
+Password Strength: weak
 
 Project Structure
 
